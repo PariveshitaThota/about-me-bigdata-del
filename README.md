@@ -22,4 +22,4 @@ I want to work with Quantam Computing.
 
 ## Me
 
-![My Photo] (paste ur image)
+![My Photo] ()
