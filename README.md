@@ -21,5 +21,5 @@ I am very much interested in designing and implementing the web applications and
 
 ## Me
 
-![My Photo] (https://user-images.githubusercontent.com/77807971/150233147-7a16fecb-7d78-49b7-bef7-7d373cad69a6.jpeg)
+![My Photo] (https://github.com/PariveshitaThota/about-me-bigdata-del/blob/main/WhatsApp%20Image%202022-01-19%20at%205.00.22%20PM.jpeg)
 
