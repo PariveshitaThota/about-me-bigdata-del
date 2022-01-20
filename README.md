@@ -21,5 +21,5 @@ I am very much interested in designing and implementing the web applications and
 
 ## Me
 
-![My Photo] (https://github.com/PariveshitaThota/about-me-bigdata-del/blob/main/Pariveshita.jpeg)
+<img src ="https://github.com/PariveshitaThota/about-me-bigdata-del/blob/main/img/Pariveshita.jpeg" class ="center" width ="700" height ="1000">
 
